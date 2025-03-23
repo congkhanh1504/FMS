@@ -598,9 +598,9 @@ SR_DHO010M_LAN,Đức Hòa,Trạm BTS Bình Hữu,Phạm Văn Cương,0918700270
 2G_CTH008M_LAN,Châu Thành,Trạm BTS Bình Khương,Lê Công Thoại,0918701313,Đoàn Kim Quý,0828152639,,N/A - GSM900 Mhz,HÒA BÌNH-Cố định,L2SW Bình Khương.V5144
 3G_CTH008M_LAN,Châu Thành,Trạm BTS Bình Khương,Lê Công Thoại,0918701313,Đoàn Kim Quý,0828152639,RBS6601W,N/A - U900 Mhz,HÒA BÌNH-Cố định,L2SW Bình Khương.V5144
 4G-CTH008M-LAN,Châu Thành,Trạm BTS Bình Khương,Lê Công Thoại,0918701313,Đoàn Kim Quý,0828152639,BB6630,Radio 2219 B3 - L1800 Mhz,HÒA BÌNH-Cố định,L2SW Bình Khương.V5144
-3G_TTR002M_LAN,Tân Trụ,Trạm BTS Bình Lãng,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0,RBS3206M,N/A - U2100 Mhz,YANMAR-Cố định,L2SW Bình Lãng.V240/GPON_ALU_Bình Lãng.AL240
-4G-TTR002M-LAN,Tân Trụ,Trạm BTS Bình Lãng,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0,BB5216,RRUS 32 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Bình Lãng.V240/GPON_ALU_Bình Lãng.AL240
-2G_TTR002M_LAN,Tân Trụ,Trạm BTS Bình Lãng,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0,,N/A - GSM900 Mhz,YANMAR-Cố định,L2SW Bình Lãng.V240/GPON_ALU_Bình Lãng.AL240
+3G_TTR002M_LAN,Tân Trụ,Trạm BTS Bình Lãng,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0918790977,RBS3206M,N/A - U2100 Mhz,YANMAR-Cố định,L2SW Bình Lãng.V240/GPON_ALU_Bình Lãng.AL240
+4G-TTR002M-LAN,Tân Trụ,Trạm BTS Bình Lãng,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0918790977,BB5216,RRUS 32 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Bình Lãng.V240/GPON_ALU_Bình Lãng.AL240
+2G_TTR002M_LAN,Tân Trụ,Trạm BTS Bình Lãng,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0918790977,,N/A - GSM900 Mhz,YANMAR-Cố định,L2SW Bình Lãng.V240/GPON_ALU_Bình Lãng.AL240
 3G_KTU006M_LAN,Kiến Tường,Trạm BTS Bình Tân,Nguyễn Quốc Hùng,0917076606,Nguyễn Bá Vinh,0946560969,RBS3206M,N/A - U2100 Mhz,YANMAR-Cố định,L2SW Bình Tân.V5171
 4G-KTU006M-LAN,Kiến Tường,Trạm BTS Bình Tân,Nguyễn Quốc Hùng,0917076606,Nguyễn Bá Vinh,0946560969,BB5216,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Bình Tân.V5171
 2G_KTU006M_LAN,Kiến Tường,Trạm BTS Bình Tân,Nguyễn Quốc Hùng,0917076606,Nguyễn Bá Vinh,0946560969,,N/A - GSM 900 Mhz,YANMAR-Cố định,L2SW Bình Tân.V5171
@@ -1175,8 +1175,8 @@ UL_TTH031M_LAN,Tân Thạnh,TTH031 (Ấp Tân Chánh B xã Nhơn Ninh),Nguyễn 
 UL_TTR700B_LAN,Tân Trụ,TTR010E,Tống Thanh Phương,0918602357,Trần Thái Bình,0918430555,BB6630,Radio 2279 22B1 22B3 C - L1800 Mhz,Lưu động,
 UL_TTR011M_LAN,Tân Trụ,TTR011A (Ấp Bình Tây Bình Trinh Đông),Tống Thanh Phương,0918602357,Nguyễn Trường Phú,0836762949,BB6630,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,
 2G_TTR011M_LAN,Tân Trụ,TTR011A (Ấp Bình Tây Bình Trinh Đông),Tống Thanh Phương,0918602357,Nguyễn Trường Phú,0836762949,,N/A - GSM900 Mhz,YANMAR-Cố định,
-3G_TTR012M_LAN,Tân Trụ,TTR012M (Ấp Thanh Phong Bình Lãng),Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0,BB6630,N/A - U2100 Mhz,KIM BÌNH-Cố định,
-4G-TTR012M-LAN,Tân Trụ,TTR012M (Ấp Thanh Phong Bình Lãng),Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0,BB5212,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,
+3G_TTR012M_LAN,Tân Trụ,TTR012M (Ấp Thanh Phong Bình Lãng),Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0918790977,BB6630,N/A - U2100 Mhz,KIM BÌNH-Cố định,
+4G-TTR012M-LAN,Tân Trụ,TTR012M (Ấp Thanh Phong Bình Lãng),Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0918790977,BB5212,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,
 UL_TTR013M_LAN,Tân Trụ,TTR013M (Ấp 5 Tân Phước Tây),Tống Thanh Phương,0918602357,Nguyễn Hoàng Tuấn,0,BB6630,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,
 3G_TTR014M_LAN,Tân Trụ,TTR014M (Ấp Bình Hòa Bình Tịnh),Tống Thanh Phương,0918602357,Trần Quốc Sang,0914543985,BB5212,N/A - U2100 Mhz,Lưu động,
 4G-TTR014M-LAN,Tân Trụ,TTR014M (Ấp Bình Hòa Bình Tịnh),Tống Thanh Phương,0918602357,Trần Quốc Sang,0914543985,BB5212,Radio 4415 B3 - L1800 Mhz,Lưu động,
@@ -1185,7 +1185,7 @@ UL_TTR017M_LAN,Tân Trụ,TTR017M,Tống Thanh Phương,0918602357,Trần Thái 
 UL_TTR018M_LAN,Tân Trụ,TTR018M (Ấp Nhựt Tân xã Nhựt Ninh),Tống Thanh Phương,0918602357,Nguyễn Hồng Phong,0915875779,BB6630,Radio 2219 B3 - L1800 Mhz,HUYNDAI-Cố định,
 UL_TTR019M_LAN,Tân Trụ,TTR019M (Ấp Bình Hòa xã Đức Tân),Tống Thanh Phương,0918602357,Trương Đình Minh Tân,0946174436,BB6630,Radio 2219 B3 - L1800 Mhz,Lưu động,
 UL_TTR020M_LAN,Tân Trụ,TTR020M (Ấp Bình Tây xã Tân Bình),Tống Thanh Phương,0918602357,Trần Thái Bình,0918430555,BB6630,Radio 2219 B3 - L1800 Mhz,Lưu động,
-UL_TTR021M_LAN,Tân Trụ,TTR021M,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0,BB6630,Radio 2219 B3 - L1800/L2100 Mhz,Lưu động,
+UL_TTR021M_LAN,Tân Trụ,TTR021M,Tống Thanh Phương,0918602357,Dương Hữu Nguyên,0918790977,BB6630,Radio 2219 B3 - L1800/L2100 Mhz,Lưu động,
 3G_TTR022M_LAN,Tân Trụ,TTR022M,Tống Thanh Phương,0918602357,Nguyễn Trường Phú,0836762949,RBS6601W,N/A - U2100 Mhz,Lưu động,
 4G-TTR022M-LAN,Tân Trụ,TTR022M,Tống Thanh Phương,0918602357,Nguyễn Trường Phú,0836762949,BB5212,RRUS 32 B3 - L1800 Mhz,Lưu động,
 4G-TTR023S-LAN,Tân Trụ,TTR023S,Tống Thanh Phương,0918602357,Trần Quốc Sang,0914543985,FWEA,Smallcell - L1800 Mhz,Lưu động,
