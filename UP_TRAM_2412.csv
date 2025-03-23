@@ -745,8 +745,8 @@ UL_CDU004M_LAN,Cần Đước,Trạm BTS Phước Tuy,Nguyễn Lâm Trường,09
 3G_CGI002M_LAN,Cần Giuộc,Trạm BTS Phước Vĩnh Tây,Huỳnh Thanh Tuấn,0946169494,Phạm Minh Tuấn,0918515166,RBS6601W,N/A - U900 Mhz,YANMAR-Cố định,L2SW Phước Vĩnh Tây.V174
 4G-CGI002M-LAN,Cần Giuộc,Trạm BTS Phước Vĩnh Tây,Huỳnh Thanh Tuấn,0946169494,Phạm Minh Tuấn,0918515166,BB6630,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Phước Vĩnh Tây.V174
 2G_CGI002M_LAN,Cần Giuộc,Trạm BTS Phước Vĩnh Tây,Huỳnh Thanh Tuấn,0946169494,Phạm Minh Tuấn,0918515166,,N/A - GSM900 Mhz,YANMAR-Cố định,L2SW Phước Vĩnh Tây.V174
-3G_TTR006M_LAN,Tân Trụ,Trạm BTS Quê Mỹ Thạnh,Tống Thanh Phương,0918602357,Phạm Minh Quân,0,RBS3418,N/A - U2100 Mhz,KIM BÌNH-Cố định,
-4G-TTR006M-LAN,Tân Trụ,Trạm BTS Quê Mỹ Thạnh,Tống Thanh Phương,0918602357,Phạm Minh Quân,0,BB5216,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,
+3G_TTR006M_LAN,Tân Trụ,Trạm BTS Quê Mỹ Thạnh,Tống Thanh Phương,0918602357,Phạm Minh Quân,0858142949,RBS3418,N/A - U2100 Mhz,KIM BÌNH-Cố định,
+4G-TTR006M-LAN,Tân Trụ,Trạm BTS Quê Mỹ Thạnh,Tống Thanh Phương,0918602357,Phạm Minh Quân,0858142949,BB5216,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,
 UL_DHO025M_LAN,Hậu Nghĩa,Trạm BTS Rừng Sến,Nguyễn Văn Cường,0917777878,Huỳnh Văn Tý,0914949808,BB6631,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,YANMAR-Cố định,L2SW Rừng Sến.V153/GPON_ALU_Rừng Sến.AL152 
 2G_DHO025M_LAN,Hậu Nghĩa,Trạm BTS Rừng Sến,Nguyễn Văn Cường,0917777878,Huỳnh Văn Tý,0914949808,,N/A - GSM 900 Mhz,YANMAR-Cố định,L2SW Rừng Sến.V153/GPON_ALU_Rừng Sến.AL152 
 3G_VHU003M_LAN,Vĩnh Hưng,Trạm BTS Tà Nu,Nguyễn Văn Luân,0918955234,Nguyễn Hữu Duẩn,0943952152,RBS3418,N/A - U2100 Mhz,YANMAR-Cố định,L2SW Tà Nu.V203
