@@ -11,8 +11,8 @@ UL_DHO047M_LAN,Hậu Nghĩa,Ấp Bình Thủy (DHO047M),Nguyễn Văn Cường,0
 UL_DHU020M_LAN,Đức Huệ,Ấp Chánh BHB (DHU020M),Phạm Tiến Dũng,0915907377,Trần Thanh Giàu,0853837837,BB6631,Radio 4490 44B1 44B3 C - L1800/L2100 Mhz,HÒA BÌNH-Cố định,
 2G_DHU020M_LAN,Đức Huệ,Ấp Chánh BHB (DHU020M),Phạm Tiến Dũng,0915907377,Trần Thanh Giàu,0853837837,,N/A - GSM 900 Mhz,HÒA BÌNH-Cố định,
 UL_DHO045M_LAN,Đức Huệ,Ấp Sơn Lợi ANT (DHO045M),Phạm Tiến Dũng,0915907377,Châu Văn Trọng,0918618006,BB6631,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,KIM BÌNH-Cố định,
-3G_MHO020M_LAN,Mộc Hóa,Bình Hòa Trung (MHO020E),Võ Quang Thìn,0913632800,Nguyễn Hoàng Sang,0852038869,RBS3418,N/A - U2100 Mhz,KIM BÌNH-Cố định,L2SW MHO020.V5220
-4G-MHO020M-LAN,Mộc Hóa,Bình Hòa Trung (MHO020E),Võ Quang Thìn,0913632800,Nguyễn Hoàng Sang,0852038869,BB5212,Radio 4415 B3 - L1800 Mhz,KIM BÌNH-Cố định,L2SW MHO020.V5220
+3G_MHO020M_LAN,Mộc Hóa,Bình Hòa Trung (MHO020E),Võ Quang Thìn,0913632800,Nguyễn Hoàng Sang,0852038869,RBS3418,N/A - U2100 Mhz,KIM BÌNH-Cố định,L2SW MHO020.V5220/GPON_ZTE MHO020.ZT120
+4G-MHO020M-LAN,Mộc Hóa,Bình Hòa Trung (MHO020E),Võ Quang Thìn,0913632800,Nguyễn Hoàng Sang,0852038869,BB5212,Radio 4415 B3 - L1800 Mhz,KIM BÌNH-Cố định,L2SW MHO020.V5220/GPON_ZTE MHO020.ZT120
 UL_BLU703B_LAN,Bến Lức,Cty Café OutSpan KCN Nhựt Chánh xã Nhựt Chánh Bến Lức,Lê Thanh Hải,0918978223,Huỳnh Phương Đông,0917189000,BB6630,Radio 4415 B3 - L1800/L2100 Mhz,Lưu động,
 UL_BLU034M_LAN,Bến Lức,BLU034E (KDC Thanh Yến),Lê Thanh Hải,0918978223,Huỳnh Phương Đông,0917189000,BB6630,Radio 4428 B3 - L1800/L2100 Mhz,Lưu động,
 UL_BLU035M_LAN,Gò Đen,BLU035E (Ấp Phước Tình),Nguyễn Đức Thuận,0913778511,Bùi Tấn Bảo,0918760639,BB6630,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,YANMAR-Cố định,
@@ -118,15 +118,15 @@ UL_CDU021M_LAN,Rạch Kiến,CDU021A (Ấp 4 Long Khê),Nguyễn Lâm Trường,
 UL_CDU022M_LAN,Rạch Kiến,CDU022M (Ấp Long Thanh Long Trạch),Nguyễn Lâm Trường,0918616577,Phạm Thái Sơn,0946702288,BB6631,Radio 4490 44B1 44B3 C - L1800/L2100 Mhz,Lưu động,
 2G_CDU023M_LAN,Rạch Kiến,CDU023M (Ấp 4 Long Định),Nguyễn Lâm Trường,0918616577,Nguyễn Thanh Lễ,0918515444,,N/A - GSM900 Mhz,KIM BÌNH-Cố định,L2SW CDU023M.V559
 UL_CDU023M_LAN,Rạch Kiến,CDU023M (Ấp 4 Long Định),Nguyễn Lâm Trường,0918616577,Nguyễn Thanh Lễ,0918515444,BB6631,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,KIM BÌNH-Cố định,L2SW CDU023M.V559
-UL_CDU024M_LAN,Cần Đước,CDU024M (Ấp Nhà Dài Tân Lân),Nguyễn Lâm Trường,0918616577,Nguyễn Trọng Tú,0919411522,BB5216,Radio 2219 B3 - L1800 Mhz,HÒA BÌNH-Cố định,
+UL_CDU024M_LAN,Cần Đước,CDU024M (Ấp Nhà Dài Tân Lân),Nguyễn Lâm Trường,0918616577,Nguyễn Trọng Tú,0919411522,BB5216,Radio 2219 B3 - L1800 Mhz,HÒA BÌNH-Cố định,L2SW CDU024M.V5132
 UL_CDU026M_LAN,Cần Đước,CDU026M (Ấp Nhà Thờ Tân Lân),Nguyễn Lâm Trường,0918616577,Nguyễn Trọng Tú,0919411522,BB5216,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,L2SW CDU026.V5123
 UL_CDU027M_LAN,Cần Đước,CDU027M (KP5 Cần Đước),Nguyễn Lâm Trường,0918616577,Đặng Hoàng Vũ,0918616787,BB5216,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,L2SW CDU027M (KP 5).V131
 3G_CDU029M_LAN,Cần Đước,CDU029M (xã Tân Chánh),Nguyễn Lâm Trường,0918616577,Trần Xuân Tiến,0817490567,RBS6601W,N/A - U900 Mhz,Lưu động,
 4G-CDU029M-LAN,Cần Đước,CDU029M (xã Tân Chánh),Nguyễn Lâm Trường,0918616577,Trần Xuân Tiến,0817490567,BB6630,Radio 2219 B3 - L1800 Mhz,Lưu động,
 3G_CDU030M_LAN,Cần Đước,CDU030M (Ấp Trung Long Hựu Đông),Nguyễn Lâm Trường,0918616577,Huỳnh Văn Tài,0918606996,BB5212,N/A - U900 Mhz,KIM BÌNH-Cố định,
 4G-CDU030M-LAN,Cần Đước,CDU030M (Ấp Trung Long Hựu Đông),Nguyễn Lâm Trường,0918616577,Huỳnh Văn Tài,0918606996,BB6630,Radio 2219 B3 - L1800 Mhz,KIM BÌNH-Cố định,
-3G_CDU031M_LAN,Cần Đước,CDU031M (Ấp 4 Phước Đông),Nguyễn Lâm Trường,0918616577,Nguyễn Minh Hoàng,0947393949,BB5212,N/A - U900 Mhz,HÒA BÌNH-Cố định,L2SW Thuận Bình.V5161
-4G-CDU031M-LAN,Cần Đước,CDU031M (Ấp 4 Phước Đông),Nguyễn Lâm Trường,0918616577,Nguyễn Minh Hoàng,0947393949,BB6630,Radio 2219 B3 - L1800 Mhz,HÒA BÌNH-Cố định,L2SW Thuận Bình.V5161
+3G_CDU031M_LAN,Cần Đước,CDU031M (Ấp 4 Phước Đông),Nguyễn Lâm Trường,0918616577,Nguyễn Minh Hoàng,0947393949,BB5212,N/A - U900 Mhz,HÒA BÌNH-Cố định,L2SW Ấp 4 Phước Đông.V5165
+4G-CDU031M-LAN,Cần Đước,CDU031M (Ấp 4 Phước Đông),Nguyễn Lâm Trường,0918616577,Nguyễn Minh Hoàng,0947393949,BB6630,Radio 2219 B3 - L1800 Mhz,HÒA BÌNH-Cố định,L2SW Ấp 4 Phước Đông.V5165
 UL_CDU032M_LAN,Rạch Kiến,CDU032M (Ấp 3 xã Long Cang),Nguyễn Lâm Trường,0918616577,Nguyễn Văn Đờ Rét 15,0916127115,BB6631,Radio 4490 44B1 44B3 C - L1800/L2100 Mhz,Lưu động,
 UL_CDU033M_LAN,Rạch Kiến,CDU033M (Ấp 3 xã Long Định),Nguyễn Lâm Trường,0918616577,Nguyễn Thanh Trầm,0918272468,BB5216,Radio 4415 B3 - L1800/L2100 Mhz,KIM BÌNH-Cố định,
 UL_CDU034M_LAN,Rạch Kiến,CDU034M (Ấp 4 Xã Long Định),Nguyễn Lâm Trường,0918616577,Nguyễn Thanh Lễ,0918515444,BB6631,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,KIM BÌNH-Cố định,
@@ -341,6 +341,7 @@ UL_KTU025M_LAN,Kiến Tường,KTU025M (Ấp Cái Đôi Đông Bình Tân),Nguy�
 UL_KTU026M_LAN,Kiến Tường,KTU026M (106 Ấp Bàu Mua),Nguyễn Quốc Hùng,0917076606,Bùi Trung Duy,0948284288,BB6630,Radio 2219 B3 - L1800 Mhz,HÒA BÌNH-Cố định,
 3G_KTU028M_LAN,Kiến Tường,KTU028M,Nguyễn Quốc Hùng,0917076606,Nguyễn Bá Vinh,0946560969,BB5212,N/A - U2100 Mhz,Lưu động,
 4G-KTU028M-LAN,Kiến Tường,KTU028M,Nguyễn Quốc Hùng,0917076606,Nguyễn Bá Vinh,0946560969,BB5212,Radio 4415 B3 - L1800/L2100 Mhz,Lưu động,
+UL_DHO035M_LAN,Đức Hòa,KTX Dệt Đông Quang,Phạm Văn Cương,0918700270,Huỳnh Long,0832798779,BB6630,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,YANMAR-Cố định,
 SR_DHO035M_LAN,Đức Hòa,KTX Dệt Đông Quang,Phạm Văn Cương,0918700270,Huỳnh Long,0832798779,,,YANMAR-Cố định,
 SR_DHO035W_LAN,Đức Hòa,KTX Dệt Đông Quang,Phạm Văn Cương,0918700270,Huỳnh Long,0832798779,,,YANMAR-Cố định,
 2G_DHO035M_LAN,Đức Hòa,KTX Dệt Đông Quang,Phạm Văn Cương,0918700270,Huỳnh Long,0832798779,,,YANMAR-Cố định,
@@ -722,10 +723,10 @@ UL_DHU013M_LAN,Đức Huệ,Trạm BTS Mỹ Bình Đức Huệ ,Phạm Tiến D�
 3G_CDU017E_LAN,Cần Đước,Trạm BTS Mỹ Lệ,Nguyễn Lâm Trường,0918616577,Nguyễn Trung Thắng,0886545828,RBS6601W,N/A - U900 Mhz,YANMAR-Cố định,L2SW Mỹ Lệ.V127/GPON_ALU_Mỹ Lệ.AL127
 UL_CDU017M_LAN,Cần Đước,Trạm BTS Mỹ Lệ,Nguyễn Lâm Trường,0918616577,Nguyễn Trung Thắng,0886545828,BB5216,Radio 2219 B3 - L1800/L2100 Mhz,YANMAR-Cố định,L2SW Mỹ Lệ.V127/GPON_ALU_Mỹ Lệ.AL127
 2G_CDU017M_LAN,Cần Đước,Trạm BTS Mỹ Lệ,Nguyễn Lâm Trường,0918616577,Nguyễn Trung Thắng,0886545828,,N/A - GSM900 Mhz,YANMAR-Cố định,L2SW Mỹ Lệ.V127/GPON_ALU_Mỹ Lệ.AL127
-3G_DHU004E_LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,RBS3418,N/A - U2100 Mhz,Lưu động,
-3G_DHU004M_LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,RBS6601W,N/A - U900 Mhz,Lưu động,
-4G-DHU004M-LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,BB6630,Radio 2219 B3 - L1800 Mhz,Lưu động,
-2G_DHU004M_LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,,N/A - GSM 900 Mhz,Lưu động,
+3G_DHU004E_LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,RBS3418,N/A - U2100 Mhz,Lưu động,L2SW Mỹ Thạnh Đông A.V162
+3G_DHU004M_LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,RBS6601W,N/A - U900 Mhz,Lưu động,L2SW Mỹ Thạnh Đông A.V162
+4G-DHU004M-LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,BB6630,Radio 2219 B3 - L1800 Mhz,Lưu động,L2SW Mỹ Thạnh Đông A.V162
+2G_DHU004M_LAN,Đức Huệ,Trạm BTS Mỹ Thạnh Đông A,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,,N/A - GSM 900 Mhz,Lưu động,L2SW Mỹ Thạnh Đông A.V162
 3G_DHU006M_LAN,Đức Huệ,Trạm BTS Ngã 5 Bình Thành,Phạm Tiến Dũng,0915907377,Trần Thanh Giàu,0853837837,,,YANMAR-Cố định,GPON_Mini_Huawei Nga5BinhThanh.HU162
 UL_DHU006M_LAN,Đức Huệ,Trạm BTS Ngã 5 Bình Thành,Phạm Tiến Dũng,0915907377,Trần Thanh Giàu,0853837837,BB6631,Radio 4490 44B1 44B3 C - L1800/L2100 Mhz,YANMAR-Cố định,GPON_Mini_Huawei Nga5BinhThanh.HU162
 2G_DHU006M_LAN,Đức Huệ,Trạm BTS Ngã 5 Bình Thành,Phạm Tiến Dũng,0915907377,Trần Thanh Giàu,0853837837,,N/A - GSM 900 Mhz,YANMAR-Cố định,GPON_Mini_Huawei Nga5BinhThanh.HU162
@@ -1024,8 +1025,8 @@ UL_BLU702B_LAN,Bến Lức,Quốc lộ 1A xã Long Hiệp Bến Lức,Lê Thanh 
 3G_TTR010M_LAN,Tân Trụ,Trạm VT An Nhựt Tân,Tống Thanh Phương,0918602357,Trần Thái Bình,0918430555,RBS3206M,N/A - U2100 Mhz,YANMAR-Cố định,L2SW An Nhựt Tân.V247/GPON_ALU_An Nhựt Tân.AL233 
 4G-TTR010M-LAN,Tân Trụ,Trạm VT An Nhựt Tân,Tống Thanh Phương,0918602357,Trần Thái Bình,0918430555,BB6630,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,L2SW An Nhựt Tân.V247/GPON_ALU_An Nhựt Tân.AL233 
 2G_TTR010M_LAN,Tân Trụ,Trạm VT An Nhựt Tân,Tống Thanh Phương,0918602357,Trần Thái Bình,0918430555,,,YANMAR-Cố định,L2SW An Nhựt Tân.V247/GPON_ALU_An Nhựt Tân.AL233 
-UL_THO004M_LAN,Thạnh Hóa,Trạm VT BDVHX Thuận Bình,Nguyễn Quốc Vinh,0947858789,Nguyễn Hoàng Phi,0945645759,BB6630,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,
-2G_THO004M_LAN,Thạnh Hóa,Trạm VT BDVHX Thuận Bình,Nguyễn Quốc Vinh,0947858789,Nguyễn Hoàng Phi,0945645759,,N/A - GSM 900 Mhz,YANMAR-Cố định,
+UL_THO004M_LAN,Thạnh Hóa,Trạm VT BDVHX Thuận Bình,Nguyễn Quốc Vinh,0947858789,Nguyễn Hoàng Phi,0945645759,BB6630,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Thuận Bình.V5161
+2G_THO004M_LAN,Thạnh Hóa,Trạm VT BDVHX Thuận Bình,Nguyễn Quốc Vinh,0947858789,Nguyễn Hoàng Phi,0945645759,,N/A - GSM 900 Mhz,YANMAR-Cố định,L2SW Thuận Bình.V5161
 UL_BLU700B_LAN,Bến Lức,Cty Chinluh KCN Thuận Đạo thị trấn Bến Lức Long An.,Lê Thanh Hải,0918978223,Trương Anh Pha,0916234929,BB6630,Radio 4499 44B1 44B3 C - L1800/L2100 Mhz,Lưu động,
 3G_KTU005M_LAN,Kiến Tường,Trạm VT Bình Hiệp,Nguyễn Quốc Hùng,0917076606,Lê Hữu Toàn,0888518066,BB6620,N/A - U2100 Mhz,SDMO-Cố định,L2SW Bình Hiệp.V179/GPON_ALU_Bình Hiệp.AL179 
 4G-KTU005M-LAN,Kiến Tường,Trạm VT Bình Hiệp,Nguyễn Quốc Hùng,0917076606,Lê Hữu Toàn,0888518066,BB5216,RRUS 32 B3 - L1800 Mhz,SDMO-Cố định,L2SW Bình Hiệp.V179/GPON_ALU_Bình Hiệp.AL179 
@@ -1336,8 +1337,8 @@ UL_VHU701B_LAN,Vĩnh Hưng,Trạm VT Thái Bình Trung,Nguyễn Văn Luân,09189
 3G_TTU031M_LAN,Thủ Thừa,TTU031M,Phạm Thị Thu Ái,0948446182,Nguyễn Thành Phạm Trung,0941328668,BB6620,N/A - U2100 Mhz,Lưu động,
 UL_BLU102M_LAN,Bến Lức,BLU102M,Lê Thanh Hải,0918978223,Trần Dương Hoàng Quang Khải,0943437560,BB5216,RRUS 32 B3 - L1800 Mhz,Lưu động,
 UL_DHO155M_LAN,Đức Huệ,DHO155M,Phạm Tiến Dũng,0915907377,Huỳnh Công Tâm,0947822239,BB6631,Radio 4490 44B1 44B3 C - L1800/L2100 Mhz,Lưu động,
-4G-CGI071M-LAN,Cần Giuộc,CGI071M,Huỳnh Thanh Tuấn,0946169494,Lê Quốc Tuấn,0918371666,BB6630,RRUS 32 B3 - L1800 Mhz,Lưu động,
-3G_CGI071M_LAN,Cần Giuộc,CGI071M,Huỳnh Thanh Tuấn,0946169494,Lê Quốc Tuấn,0918371666,RBS3418,N/A - U2100 Mhz,Lưu động,
+4G-CGI071M-LAN,Cần Giuộc,CGI071M,Huỳnh Thanh Tuấn,0946169494,Lê Quốc Tuấn,0918371666,BB6630,RRUS 32 B3 - L1800 Mhz,Lưu động,GPON_mini_Huawei_CGI071M.HU143
+3G_CGI071M_LAN,Cần Giuộc,CGI071M,Huỳnh Thanh Tuấn,0946169494,Lê Quốc Tuấn,0918371666,RBS3418,N/A - U2100 Mhz,Lưu động,GPON_mini_Huawei_CGI071M.HU143
 UL_THO708B_LAN,Thạnh Hóa,UL_THO708B_LAN,Nguyễn Quốc Vinh,0947858789,Nguyễn Hoàng Phi,0945645759,BB5216,Radio 4428 B3 - L1800 Mhz,Lưu động,
 3G_THU024S_LAN,Tân Hưng,3G&4G-THU024S-LAN,Nguyễn Văn Tiền,0918371563,Lê Hoàng Tiến,0918616776,FWGP_FRGP,Smallcell - U2100 Mhz,Lưu động,
 4G-THU024S-LAN,Tân Hưng,3G&4G-THU024S-LAN,Nguyễn Văn Tiền,0918371563,Lê Hoàng Tiến,0918616776,FWEA,Smallcell - L1800 Mhz,Lưu động,
