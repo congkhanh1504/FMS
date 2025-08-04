@@ -633,6 +633,7 @@ UL_CDU008M_LAN,Rạch Kiến,Trạm BTS Cầu Ông Bình,Nguyễn Lâm Trường
 UL_DHO012M_LAN,Hậu Nghĩa,Trạm BTS Cầu Ông Huyện,Nguyễn Văn Cường,0917777878,Lê Ân Tình,0941202345,BB6631,Radio 4490 44B1 44B3 C - L1800/L2100 Mhz,YANMAR-Cố định,GPON_CauOngHuyen.DA163
 2G_DHO012M_LAN,Hậu Nghĩa,Trạm BTS Cầu Ông Huyện,Nguyễn Văn Cường,0917777878,Lê Ân Tình,0941202345,,N/A - GSM 900 Mhz,YANMAR-Cố định,GPON_CauOngHuyen.DA163
 SR_DHO013M_LAN,Đức Hòa,Trạm BTS Chợ Chiều,Phạm Văn Cương,0832899579,Nguyễn Công Giang,0941254259,BB6631,Radio 4490 44B1 44B3 C - L900/L1800/L2100 Mhz,Lưu động,L2SW Chợ Chiều.V106
+UL_DHO013M_LAN,Đức Hòa,Trạm BTS Chợ Chiều,Phạm Văn Cương,0832899579,Nguyễn Công Giang,0941254259,BB6631,Radio 4490 44B1 44B3 C - L900/L1800/L2100 Mhz,Lưu động,L2SW Chợ Chiều.V106
 3G_VHU007M_LAN,Vĩnh Hưng,Trạm BTS Chùa Nổi,Nguyễn Văn Luân,0918955234,Nguyễn Văn Luân,0918955234,RBS3206,N/A - U2100 Mhz,YANMAR-Cố định,L2SW Chùa Nổi.V5203/GPON_mini_Huawei ChuaNoi.HU203 
 4G-VHU007M-LAN,Vĩnh Hưng,Trạm BTS Chùa Nổi,Nguyễn Văn Luân,0918955234,Nguyễn Văn Luân,0918955234,BB5212,Radio 2219 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Chùa Nổi.V5203/GPON_mini_Huawei ChuaNoi.HU203 
 2G_VHU007M_LAN,Vĩnh Hưng,Trạm BTS Chùa Nổi,Nguyễn Văn Luân,0918955234,Nguyễn Văn Luân,0918955234,,N/A - GSM 900 Mhz,YANMAR-Cố định,L2SW Chùa Nổi.V5203/GPON_mini_Huawei ChuaNoi.HU203 
