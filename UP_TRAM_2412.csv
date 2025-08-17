@@ -1310,7 +1310,8 @@ UL_DHU036M_LAN,Đức Huệ,DHU036M,Phạm Tiến Dũng,0915907377,Trần Thanh 
 4G-MHO031S-LAN,Mộc Hóa,MHO031M,Võ Quang Thìn,0913632800,Phan Vũ Luân,0853088818,BB6502,Radio 2203 B3 - L1800 Mhz,Lưu động,
 4G-TAN057S-LAN,Tân An,TAN057S,Nguyễn Văn Tưởng,0914710909,Lê Văn Rê,0946568439,FWEA,Smallcell - L1800 Mhz,Lưu động,
 4G-TAN058S_TAN087S-LAN,Tân An,TAN058S,Nguyễn Văn Tưởng,0914710909,Nguyễn Việt Hùng,0832823838,,,Lưu động,
-4G-TAN059S-LAN,Tân An 2,Trường Chính Trị tỉnh Long An Phường Khánh Hậu TP Tân An Long An,Nguyễn Văn Tưởng,0914710909,Trần Văn Thuyết,0946789525,BB6502,Radio 2203 B3 - L1800 Mhz,Lưu động,
+3G_TAN059S_LAN,Tân An 1,Trường Chính Trị tỉnh Long An Phường Khánh Hậu TP Tân An Long An,Nguyễn Tài Long,0918898383,Trần Văn Thuyết,0946789525,BB6502,N/A - U2100 Mhz,Lưu động,
+4G-TAN059S-LAN,Tân An 1,Trường Chính Trị tỉnh Long An Phường Khánh Hậu TP Tân An Long An,Nguyễn Tài Long,0918898383,Trần Văn Thuyết,0946789525,BB6502,Radio 2203 B3 - L1800 Mhz,Lưu động,
 4G-TAN060S-LAN,Tân An,TAN060S,Nguyễn Văn Tưởng,0914710909,Nguyễn Hoài Phong,0916969248,BB6502,Radio 2203 B3 - L1800 Mhz,Lưu động,
 4G-THU015M-LAN,Tân Hưng,THU015M (Ấp Cây Me),Nguyễn Văn Tiền,0852603333,Tiêu Văn Y,0948445577,BB5212,Radio 4428 B3 - L1800 Mhz,YANMAR-Cố định,L2SW Cây Me.V5164/GPON_Mini_Huawei THU015M.HU164 
 4G-TTH703B-LAN,Tân Thạnh,Trạm Ấp 6 Nhơn Hoà Lập,Nguyễn Hữu Thoại,0913818634,Đinh Nhựt Trường,0858398488,BB5212,Radio 2219 B3 - L1800 Mhz,Lưu động,
